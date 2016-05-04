@@ -1,9 +1,7 @@
 === Xipec ===
 
 Contributors: automattic
-Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
-
-Requires at least: 4.0
+Requiert Wordpress 4.0 au minimum
 Tested up to: 4.2.2
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -13,7 +11,16 @@ A starter theme called Xipec.
 
 == Description ==
 
-Hi. I'm a starter theme called Xipec, if you like. I'm just a starting themeso try turning me into an awesome WordPress theme out there. That's what I'm here for :).
+Hi. I'm a starter theme called Xipec, if you like. I'm just a starting theme so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for :).
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Xipec is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 == Installation ==
 	
@@ -29,7 +36,7 @@ Xipec includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - Nov 30 2015 =
 * Initial release
 
 == Credits ==
